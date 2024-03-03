@@ -65,7 +65,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and Doggo's<br/><br/>
- 📧 &emsp; Reach me anytime: ming.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: mingsu.coder@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/DevooUP96)
 
 </p>
