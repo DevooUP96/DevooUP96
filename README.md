@@ -17,7 +17,7 @@
 </a>
 
 
-[![wakatime]
+
 
 <!-- Intro  -->
 <h3 align="center">
