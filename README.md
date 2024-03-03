@@ -1,4 +1,3 @@
-
 <!--
 <h2 align="center">
   Welcome to Al Siam World!
@@ -30,7 +29,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="">「 Google Me 」</a>
+    <a href="https://www.google.com/">「 Google Me 」</a>
     <br>
     「 I am Cybersecurity CE student <b>Italy</b> 」
     <br>
@@ -39,24 +38,22 @@
 </p>
 
 <p align="center">
- <a href="https://DevooUP96.com" target="blank">
+ <a target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="DevooUP96" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/ming-su-51ba59292/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevooUP96"/>
  </a>
  <!-- <a href="https://dev.to/DevooUP96" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevooUP96" />
  </a> -->
- <a href="https://twitter.com/_DevooUP96" target="_blank">
+ <!--a href="https://twitter.com/_DevooUP96" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/_DevooUP96" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="DevooUP96" />
- </a> 
- <a href="https://facebook.com/DevooUP96.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="DevooUP96"  />
-  </a> 
+ </a> -->
+
 </p>
 <br />
 
@@ -67,7 +64,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Love to writing code and Doggo's<br/><br/>
  📧 &emsp; Reach me anytime: ming.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/DevooUP96)
 
@@ -104,7 +101,7 @@
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=DevooUP96&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevooUP96/itasks)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=DevooUP96&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevooUP96/urfolio)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=DevooUP96&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevooUP96/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=DevooUP96&repo=DevooUP96&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevooUP96/DevooUP96)
+[![Ming Project](https://github-readme-stats.vercel.app/api/pin/?username=DevooUP96&repo=DevooUP96&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevooUP96/DevooUP96)
 
 <p align="left">
   <a href="https://github.com/DevooUP96?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
